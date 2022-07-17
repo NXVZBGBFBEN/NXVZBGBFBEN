@@ -1,8 +1,8 @@
 # NXVZBGB FBEN
 
-><div>The magic words are squeamish ossifrage. To know is to know that you know nothing. That is the true meaning of knowledge.</div>
-><div style="text-align: right;">-- <cite>SUMMER WARS (2009) [Modified]</cite></div>
-<br>
+>The magic words are squeamish ossifrage. To know is to know that you know nothing. That is the true meaning of knowledge.
+
+*SUMMER WARS (2009) [Modified]*
 
 ## Links
 + [Blogger](https://nxvzbgbfben.blogspot.com "骨折り損の草臥れ儲け")
