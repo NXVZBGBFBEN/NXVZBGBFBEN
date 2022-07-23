@@ -10,7 +10,7 @@
 
 ## Links
 [![](https://img.shields.io/badge/-Amazon-232F3E.svg?logo=amazon&style=for-the-badge)](https://www.amazon.co.jp/gp/profile/amzn1.account.AEGYMM462D5VE74EIAK7NXF3AQAQ)
-[![](https://img.shields.io/badge/-Blogger-333333.svg?logo=blogger&style=for-the-badge)](https://nxvzbgbfben.blogspot.com)
+[![](https://img.shields.io/badge/-Blogger-333333.svg?logo=blogger&style=for-the-badge)](https://www.blogger.com/profile/02957437635231245487)
 [![](https://img.shields.io/badge/-bokete-EBBF26.svg?style=for-the-badge)](https://bokete.jp/user/NXVZBGBFBEN)
 [![](https://img.shields.io/badge/-Geartics-039BE5.svg?style=for-the-badge)](https://www.geartics.com/NXVZBGBFBEN)
 [![](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=for-the-badge)](https://github.com/NXVZBGBFBEN)
