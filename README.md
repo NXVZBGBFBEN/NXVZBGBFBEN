@@ -1,5 +1,5 @@
 # NXVZBGB FBEN
->do you know what ambience is?  
+>Do you know what ambience is?  
 >Under the winter sky, there come a man with a spear in his hand, a whale cather.  
 >He throws the big spear into the frozen sea.  
 >Upon the horizon, a spaceship decends.  
