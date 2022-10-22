@@ -17,3 +17,8 @@
 <div align="center">
     <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=NXVZBGBFBEN&theme=onedark&margin-w=10">
 </div>
+
+## GitHub Readme Streak Stats
+<div align="center">
+    <img alt="GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=NXVZBGBFBEN&theme=onedark">
+</div>
