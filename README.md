@@ -24,6 +24,7 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="GitHub Readme Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=NXVZBGBFBEN&theme=onedark"></a>
 </div>
 
+## Others
 <details>
     <div align="center">
         <summary>GitHub Profile Summary Cards</summary>
