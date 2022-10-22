@@ -9,8 +9,8 @@
 
 ## GitHub Readme Stats
 <div align="center">
-    <img alt="Most Used Languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXVZBGBFBEN&layout=compact&langs_count=10&theme=onedark">
-    <img alt="NXVZBGBFBEN's GutHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NXVZBGBFBEN&show_icons=true&count_private=true&include_all_commits=true&theme=onedark">
+    <img alt="Most Used Languages" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXVZBGBFBEN&langs_count=10&theme=onedark">
+    <img alt="NXVZBGBFBEN's GutHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=NXVZBGBFBEN&show_icons=true&count_private=true&include_all_commits=true&theme=onedark">
 </div>
 
 ## Github Profile Trophy
