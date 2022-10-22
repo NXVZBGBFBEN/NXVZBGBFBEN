@@ -15,5 +15,5 @@
 
 ## Github Profile Trophy
 <div align="center">
-    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=NXVZBGBFBEN&theme=onedark&column=6&margin-w=21">
+    <img alt="Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=NXVZBGBFBEN&theme=onedark">
 </div>
