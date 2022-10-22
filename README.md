@@ -25,10 +25,12 @@
 </div>
 
 <details>
-    <summary>GitHub Profile Summary Cards</summary>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="NXVZBGBFBEN (NXVZBGBFBEN)" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/0-profile-details.svg"></a><br>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Repo" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/1-repos-per-language.svg"></a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Commit" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/2-most-commit-language.svg"></a><br>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/3-stats.svg"></a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Commits (UTC +0)" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/4-productive-time.svg"></a>
+    <div align="center">
+        <summary>GitHub Profile Summary Cards</summary>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="NXVZBGBFBEN (NXVZBGBFBEN)" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/0-profile-details.svg"></a><br>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Repo" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/1-repos-per-language.svg"></a>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Commit" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/2-most-commit-language.svg"></a><br>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/3-stats.svg"></a>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Commits (UTC +0)" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/monokai/4-productive-time.svg"></a>
+    </div>
 </details>
