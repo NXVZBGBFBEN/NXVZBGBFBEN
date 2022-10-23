@@ -16,7 +16,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=NXVZBGBFBEN&theme=onedark&layout=compact"></a>
 </div>
 
-## Github Profile Trophy
+## GitHub Profile Trophy
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=NXVZBGBFBEN&theme=onedark&margin-w=10"></a>
