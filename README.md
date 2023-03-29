@@ -6,7 +6,7 @@
 >Upon the horizon, a spaceship decends.  
 >It's such a beautiful scene.  
 
-<p align="right">-- Butterfly Specimen / Process 2.3.1. (1999) [Modified]</p>
+<p align="right">-- The Butterfly's Specimen / Process 2.3.1. (1999) [Modified]</p>
 
 ## GitHub Readme Stats
 
