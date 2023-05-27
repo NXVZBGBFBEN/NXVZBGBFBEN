@@ -13,7 +13,7 @@
 ## GitHub Readme Stats
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Languages" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXVZBGBFBEN&layout=compact&langs_count=10&theme=onedark&card_width=242"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Languages" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NXVZBGBFBEN&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=onedark&card_width=255"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NXVZBGBFBEN's GutHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=NXVZBGBFBEN&show_icons=true&count_private=true&include_all_commits=true&theme=onedark"></a><br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=NXVZBGBFBEN&theme=onedark&layout=compact"></a>
 </div>
