@@ -35,10 +35,10 @@
 <details>
 <summary>GitHub Profile Summary Cards</summary>
     <div align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="NXVZBGBFBEN (NXVZBGBFBEN)" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NXVZBGBFBEN&theme=onedark"></a><br>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NXVZBGBFBEN&theme=onedark"></a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NXVZBGBFBEN&theme=onedark"></a><br>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NXVZBGBFBEN&theme=onedark"></a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Commits (UTC +9)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NXVZBGBFBEN&theme=onedark&utcOffset=9"></a>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="NXVZBGBFBEN (NXVZBGBFBEN)" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/onedark/0-profile-details.svg"></a><br>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Repo" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/onedark/1-repos-per-language.svg"></a>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Top Languages by Commit" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/onedark/2-most-commit-language.svg"></a><br>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Stats" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/onedark/3-stats.svg"></a>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="Commits (UTC +9)" src="https://raw.githubusercontent.com/NXVZBGBFBEN/NXVZBGBFBEN/main/profile-summary-card-output/onedark/4-productive-time.svg"></a>
     </div>
 </details>
