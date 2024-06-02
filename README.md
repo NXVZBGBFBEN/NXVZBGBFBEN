@@ -1,6 +1,8 @@
 # NXVZBGBFBEN
 
 [![wakatime](https://wakatime.com/badge/user/28d85a74-326a-4c18-a4a4-ef5734451587.svg)](https://wakatime.com/@28d85a74-326a-4c18-a4a4-ef5734451587)
+[![AtCoder (Algorithm)](https://badgen.org/img/atcoder/NXVZBGBFBEN/rating/algorithm?style=flat&label=AtCoder+%28Algorithm%29)](https://atcoder.jp/users/NXVZBGBFBEN?contestType=algo)
+[![AtCoder (Heuristic)](https://badgen.org/img/atcoder/NXVZBGBFBEN/rating/heuristic?style=flat&label=AtCoder+%28Heuristic%29)](https://atcoder.jp/users/NXVZBGBFBEN?contestType=heuristic)
 
 > Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas?  
 
