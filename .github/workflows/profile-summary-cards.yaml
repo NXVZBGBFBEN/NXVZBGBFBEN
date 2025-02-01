@@ -1,7 +1,6 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  create:
   schedule:
     - cron: "15 18 * * *" # 0315(JST)
   workflow_dispatch:
@@ -9,15 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-cards
+    name: generate-github-profile-summary-cards
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 9
